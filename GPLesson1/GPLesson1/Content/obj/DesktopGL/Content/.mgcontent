@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/2k_moon.jpg</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/clouds.jpg</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/Cracks.jpg</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/cube.obj</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/day.jpg</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/dirt_diff.jpg</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/FF.jpg</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/FF2.jpg</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/FF3.png</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/FFNormal.png</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/Floating.png</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/Grass.jpg</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/HeatDistortionMap1.jpg</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/HeatDistortionMap2.jpg</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/heightmap.jpg</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/heightmap2.jpeg</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/Lesson2.fx</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/Lesson3.fx</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/Lesson4.fx</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/night.jpg</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/postfxlive.fx</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/Rock.jpg</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/sky_cube.dds</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/Snow.jpg</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/uv_sphere.fbx</File>
+    <File>D:/HKU/Jaar2/Graphics Programming/GPLesson1/GPLesson1/Content/Water.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
